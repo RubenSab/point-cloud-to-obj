@@ -27,8 +27,8 @@ Specifications:
 Specifications:
 ```
 o [cloud name]
-[first vertex x coordinate] [first vertex y coordinate] [first vertex z coordinate]
-[second vertex x coordinate] [second vertex y coordinate] [second vertex z coordinate]
+v [first vertex x coordinate] [first vertex y coordinate] [first vertex z coordinate]
+v [second vertex x coordinate] [second vertex y coordinate] [second vertex z coordinate]
 ...
-[last vertex x coordinate] [last vertex y coordinate] [last vertex z coordinate]
+v [last vertex x coordinate] [last vertex y coordinate] [last vertex z coordinate]
 ```
